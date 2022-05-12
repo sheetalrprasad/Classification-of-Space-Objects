@@ -1,4 +1,4 @@
-# CS_649 Classier Comparison Project
+# CS_649 Classifier Comparison Project
 
 ### Libraries required.
 
