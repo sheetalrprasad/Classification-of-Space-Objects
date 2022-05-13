@@ -19,3 +19,6 @@
 - Install the above mentioned libraries.
 - Keep the data folder in the same folder under 'data/' as the Classifier_Comparison.ipynb file
 - Run all the cells in jupyter file.
+
+### Report
+- Report.docx contains the observations and conclusion on this project.
