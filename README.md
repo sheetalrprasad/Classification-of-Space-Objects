@@ -11,11 +11,11 @@
 ### Data
 - Dataset source: http://www.skyserver.org/myskyserver/
 - Ran an sql script in this http://skyserver.sdss.org/dr16/en/tools/search/sql.aspx to extract the required data.
-- Extracted Dataset location: /data/Skyserver_SQL4_7_2022 12_58_52 AM.csv
+- Extracted Dataset location: https://github.com/sheetalrprasad/CS649_Project/data/Skyserver_SQL4_7_2022 12_58_52 AM.csv
 
 
 ### How to run code:
 
 - Install the above mentioned libraries.
 - Keep the data folder in the same folder under 'data/' as the Classifier_Comparison.ipynb file
-- Run the jupyter file.
+- Run all the cells in jupyter file.
